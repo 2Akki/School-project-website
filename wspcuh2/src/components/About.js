@@ -10,7 +10,7 @@ export default function About() {
            
             <div className='images'>      
                  <div> 
-                    <img className='image' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F640%2Fmedia%2Fimages%2F52448000%2Fjpg%2F_52448112_jex_1033070_de27-1.jpg&f=1&nofb=1&ipt=b71afc95d4d9338d4d55aa2e8e027ad2541a037f3144934b7ec77423d45deb14&ipo=images'></img>
+                    <img className='image' src='https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png'></img>
                     <h3 className='animate-charcter'> Akki</h3>
                     <p className='desc'>Backend, main programer, monkey</p>
                   </div>
